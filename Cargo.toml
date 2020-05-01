@@ -95,5 +95,6 @@ version  = "0.12"
 optional = true
 
 [dependencies.ffmpeg-sys]
+git = "https://github.com/tpmccallum/rust-ffmpeg-sys"
 version = "~3.4"
 default-features = false
